@@ -1,0 +1,15 @@
+* npm install react-router-dom@6
+
+* rafe - react-arrow-function-export
+
+* npm start <==Start server 
+
+################################################
+a. A component means you create a functional component and then you nested in a page or another component.
+
+b. A page is the same as the component. However, you do not nest it into another page. Only component is
+
+   nested into this page. This is a reason why we have views folder and the component folder.
+
+################################################
+
